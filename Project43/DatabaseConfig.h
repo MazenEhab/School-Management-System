@@ -13,7 +13,7 @@ using namespace std;
 using namespace sql;
 
 const string ip = "tcp://127.0.0.1:3306";
-const string password = "A7almfoo";
+const string password = "12341234";
 const string name = "root";
 const string DB = "school_db";
 
